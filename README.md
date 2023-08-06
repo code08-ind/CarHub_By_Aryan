@@ -14,4 +14,4 @@ This is a well designed and elegant web application that showcases all types of 
 
 ## How to Run
 
-Web Application is hosted on Vercel. Click [Web Application Link](https://carhub.vercel.app/) to visit the website.
+Web Application is hosted on Vercel. Click [Web Application Link](https://carhub-by-aryangarg.vercel.app/) to visit the website.
