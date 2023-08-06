@@ -8,6 +8,8 @@ This is a well designed and elegant web application that showcases all types of 
 
 - React.js
 - Next.js
+- TypeScript
+- JavaScript
 - TailwindCSS
 - Headless UI
 - Cars By API Ninjas
